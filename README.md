@@ -285,6 +285,7 @@
 - [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
+- [GameZone](https://github.com/OmarLkhalil/GameZone) (**+++** ⭐) - GameZone is a Compose-based app with a multi-module architecture, leveraging the Giant Bomb API for game data, Dagger Hilt for dependency injection, Navigation Component for seamless navigation, and Compose Pagination for efficient UI management.
 
 ## Compose Desktop Projects
 
